@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Shazaam-React/precache-manifest.ddaf349972aff0d5ab8060c37365373e.js"
+  "/Shazaam-React/precache-manifest.a6ed3f369e2399a847ad8bbabca0f593.js"
 );
 
 self.addEventListener('message', (event) => {
